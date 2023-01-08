@@ -1,7 +1,7 @@
-# HealthHub ⚕️💊
+# HealthHub ✔️🩺
 
-### 🚀  A check from home solution for diabetic , heart cancer and parkinson's disease patients.
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*****About the project:*****
+### 🔵 A check from home solution for diabetic , heart cancer and parkinson's disease patients.
+# ⚕️ About The Project
 
 #### ✅ Our webapp "HealthHub" focuses on finding solutions for diabetic , heart cancer and parkinson's disease patients by providing them a quick check from home.
 #### ✅ Tech Stack : ML , Flask , HTML, CSS and JS
